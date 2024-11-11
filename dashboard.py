@@ -51,7 +51,7 @@ def load_data():
 companies_df, valuations_df = load_data()
 
 # Header
-st.title("Airtreeee Portfolio Performance Dashboard")
+st.title("Airtree Portfolio Performance Dashboard")
 
 # Sidebar filters
 st.sidebar.header("Filters")
